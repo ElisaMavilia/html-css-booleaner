@@ -50,6 +50,16 @@ a{
     font-size: 10px;
 }
 
-p{
+p ul{
     font-size: 12px;
+}
+
+thead {
+    background-color: #21a9e5;
+    color: white;
+    font-size: 12px;
+}
+
+.blue-row{
+    background-color: #b1e5f2;
 }
