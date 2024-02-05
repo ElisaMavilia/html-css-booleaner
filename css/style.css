@@ -9,10 +9,9 @@ header{
     background-image: url("../img/pattern.png");
     background-color: #2989d8;
     background-size: 20%;
-    background-position: center-top;
 }
 
-main{
+main aside{
     margin: auto;
     padding-top: 8px;
     width: 1500px;
@@ -63,3 +62,30 @@ thead {
 .blue-row{
     background-color: #b1e5f2;
 }
+
+.title-aside {
+    color: #787878;
+    font-size: 12px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.image-3, .image-4 {
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 10px;
+}
+
+.image-3 {
+    background-image: url("../img/monitor.jpg");
+    margin-bottom: 5px;
+}
+
+.image-4 {
+    background-image: url("../img/graph.jpg");
+}
+
