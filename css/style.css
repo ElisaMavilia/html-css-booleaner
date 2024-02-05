@@ -9,7 +9,7 @@ header{
     background-image: url("../img/pattern.png");
     background-color: #2989d8;
     background-size: 20%;
-    background-position: center-top;
+    
 }
 
 main, aside{
@@ -19,9 +19,9 @@ main, aside{
 }
 
 #logo img{
-width: 200px;
-padding-left: 145px;
-padding-top: 40px;
+    width: 200px;
+    padding-left: 145px;
+    padding-top: 40px;
 }
 
 h1{
