@@ -9,9 +9,10 @@ header{
     background-image: url("../img/pattern.png");
     background-color: #2989d8;
     background-size: 20%;
+    background-position: center-top;
 }
 
-main aside{
+main, aside{
     margin: auto;
     padding-top: 8px;
     width: 1500px;
