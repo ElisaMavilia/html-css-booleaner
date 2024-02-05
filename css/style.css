@@ -26,6 +26,7 @@ padding-top: 40px;
 
 h1{
     font-size: 45px;
+    margin: 0;
 }
 
 a{
@@ -44,6 +45,7 @@ a{
 .info-article{
     color: #787878;
     padding: 5px;
+    margin-bottom: 5px;
 }
 
 #caption{
@@ -54,9 +56,22 @@ p ul{
     font-size: 12px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+.row-3 {
+    width: 75%;
+}
+
 thead {
     background-color: #21a9e5;
     color: white;
+    font-size: 15px;
+    text-align: left;
+}
+
+tbody {
     font-size: 12px;
 }
 
