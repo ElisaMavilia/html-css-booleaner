@@ -50,5 +50,18 @@ a {
     background-image: url(../img/tim-1.jpg);
     background-size: cover;
     width: 48%;
-   
+}
+
+.image-2 {
+    background-image: url(../img/tim-1.jpg);
+    background-size: cover;
+    width: 48%;
+}
+
+#caption {
+    font-size: 8px;
+}
+
+p {
+    font-size: 12px;
 }
